@@ -1,0 +1,10 @@
+**/bin/
+**/obj/
+**/__pycache__/
+/analysis/
+/inspect-build/
+/staged/
+/staged-single/
+/dist/
+/.vs/
+*.user
